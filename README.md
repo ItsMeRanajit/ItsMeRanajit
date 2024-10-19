@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ranajit Das</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Advanced Java**
+- 🌱 I’m currently learning **Backend Development focusing on Node.js**
 
 - 📫 How to reach me **ranajit104das@gmail.com**
 
