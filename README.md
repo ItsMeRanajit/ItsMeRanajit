@@ -3,7 +3,6 @@
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnbW0yMzF6enR4ZDVsZDdjZXEzaWp3dWg0cjB6cDlyYmxzb3R6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
-- 🔭 I’m currently working on **Eraser.io**
 
 - 🌱 I’m currently learning **Backend Development**
 
