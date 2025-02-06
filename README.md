@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ranajit104das@gmail.com**
 
-- 🧑‍💻 Visit my <a href="https://ranajitdas-portfolio.vercel.app/"><b>Portfolio</b></a.
+- 🧑‍💻 Visit my <a href="https://ranajitdas-portfolio.vercel.app/"><b>Portfolio</b></a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
