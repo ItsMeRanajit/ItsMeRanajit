@@ -4,13 +4,12 @@
 <img align="right" alt="coding" src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnbW0yMzF6enR4ZDVsZDdjZXEzaWp3dWg0cjB6cDlyYmxzb3R6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
 
-- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **ranajit104das@gmail.com**
 
-- 🧑‍💻 Visit my portfolio site - <a href="https://ranajitdas-portfolio.vercel.app/">Portfolio</a>
+- 🧑‍💻 Visit my <a href="https://ranajitdas-portfolio.vercel.app/"><b>Portfolio</b></a.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
